@@ -157,13 +157,9 @@ so that cosmic time is measured directly in billions of years.
 
 The Friedmann equation here is not solved analytically.
 
-Instead, it is rewritten as
+Instead, it is written as
 
-$$
-\frac{da}{dt}
-=
-aH(a),
-$$
+$$\frac{da}{dt} = aH(a),$$
 
 which is a first-order ordinary differential equation.
 
@@ -175,19 +171,13 @@ This equation is then integrated numerically using **SciPy's `solve_ivp`**, an a
 
 The simplest numerical method for solving an ordinary differential equation is the **Euler Method**,
 
-$$
-y_{n+1}
-=
-y_n
-+
-hf(t_n,y_n),
-$$
+$$y_{n+1} = y_n + hf(t_n,y_n),$$
 
 where the slope is estimated only once per step.
 
 Although straightforward, Euler's method accumulates significant numerical error and becomes inaccurate for long integrations.
 
-Runge–Kutta methods improve upon this idea by estimating the slope multiple times within each step and combining these estimates to produce a much more accurate solution.
+Runge Kutta methods improve upon this idea by estimating the slope multiple times within each step and combining these estimates to produce a much more accurate solution.
 
 SciPy's `solve_ivp` employs a Runge Kutta algorithm that automatically adjusts the step size according to the local error, making it both accurate and computationally efficient.
 
