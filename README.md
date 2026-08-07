@@ -120,9 +120,7 @@ which is the density required for a spatially flat Universe.
 
 They satisfy
 
-$$
-\Omega_i
-$$
+$\Omega_i$
 =
 $$
 \frac{\rho_i}{\rho_c},
@@ -140,8 +138,7 @@ $$
 
 Throughout this project we use
 
-$$
-H_0
+$H_0$
 =
 70
 \;
