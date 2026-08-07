@@ -2,7 +2,7 @@
 ### *numerical solutions of the Friedmann equations*
 
 
-## The Story Begins...
+## The Beginning.
 
 Imagine observing a distant galaxy through a telescope.
 
