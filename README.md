@@ -72,7 +72,7 @@ Our objective is therefore:
 
 ---
 
-# Einstein's Theory
+# Einstein's approach
 
 The expansion of the Universe cannot be explained using Newtonian gravity alone.
 
@@ -125,7 +125,9 @@ These density parameters are defined relative to the **critical density**
 
 $$
 \rho_c
+$$
 =
+$$
 \frac{3H_0^2}{8\pi G},
 $$
 
@@ -135,7 +137,9 @@ They satisfy
 
 $$
 \Omega_i
+$$
 =
+$$
 \frac{\rho_i}{\rho_c},
 $$
 
