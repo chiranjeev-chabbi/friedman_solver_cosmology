@@ -80,20 +80,7 @@ Instead, it follows from **Einstein's General Theory of Relativity**.
 
 Applying Einstein's field equations to a homogeneous and isotropic Universe leads to the **Friedmann Equation**,
 
-$$
-\left(\frac{\dot a}{a}\right)^2
-=
-H_0^2
-\left(
-\frac{\Omega_r}{a^4}
-+
-\frac{\Omega_m}{a^3}
-+
-\frac{\Omega_k}{a^2}
-+
-\Omega_\Lambda
-\right).
-$$
+$$\left(\frac{\dot{a}}{a}\right)^2 = H_0^2 \left( \frac{\Omega_r}{a^4} + \frac{\Omega_m}{a^3} + \frac{\Omega_k}{a^2} + \Omega_\Lambda \right).$$
 
 Symbolising the physical factors contributing to expansion of the universe.
 
