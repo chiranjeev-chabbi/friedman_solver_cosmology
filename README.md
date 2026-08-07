@@ -110,9 +110,7 @@ Each component contributes differently as the Universe expands.
 
 These density parameters are defined relative to the **critical density**
 
-$$
-\rho_c
-$$
+$ \rho_c $
 =
 $$
 \frac{3H_0^2}{8\pi G},
