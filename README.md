@@ -200,7 +200,7 @@ Dark energy eventually dominates, leading to accelerated expansion.
 
 ---
 
-### Matter Dominated Universe
+### Matter Dominated (Einstein De Sitter) Universe
 
 $$
 \Omega_m=1.
