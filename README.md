@@ -139,7 +139,7 @@ $$
 Throughout this project we use
 
 $H_0$ = 70
-$\\mathrm{km\s^{-1}\Mpc^{-1}}$
+$\\mathrm{km s^{-1} Mpc^{-1}}$
 
 For numerical integration, this quantity is converted
 
